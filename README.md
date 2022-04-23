@@ -9,6 +9,8 @@ All regression and classification problem CSV files have no header line, no whit
 
 In many cases, tutorials will link directly to the raw dataset URL, therefore dataset filenames should not be changed once added to the repository.
 
+> NOTA: If it is going to be read the file `https://github.com/jmquintana79/Datasets/blob/master/iris.csv` using for example *pandas*, it should be used this url `https://raw.githubusercontent.com/jmquintana79/Datasets/master/iris.csv` instead. 
+
 Datasets
 ========
 
